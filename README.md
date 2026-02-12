@@ -5,6 +5,7 @@ I love combining university work with personal projects — always learning, bui
 
 🌿 I’m a big fan of **new knowledge**, curiosity, and the little discoveries you get while working on something new.  
 🎲 Outside of coding/design, I enjoy **board games** and **late-spring picnics**.
+
 ---
 
 ## ✨ What I’m working on
